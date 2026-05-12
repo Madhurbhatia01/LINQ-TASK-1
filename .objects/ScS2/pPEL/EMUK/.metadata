@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Automation Anywhere Labs - PO Tracking L",
+  "Type": "Screen",
+  "Id": "EMUKyjWuCUmmhWzgwSDeCg",
+  "Reference": "yTB_NlvumEeMGRCISo8zxw/EMUKyjWuCUmmhWzgwSDeCg",
+  "ParentRef": "yTB_NlvumEeMGRCISo8zxw/pPELzEEp6EeFcZWH_NjlOA",
+  "Created": "2026-03-13T17:49:16.4438094Z",
+  "Updated": "2026-03-13T17:49:16.4438094Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.28.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

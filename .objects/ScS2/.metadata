@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Automation Anywhere Labs - PO Tracking Lookup",
+  "Type": "App",
+  "Id": "ScS2XfpcHkq37Oq0GUSDFQ",
+  "Reference": "yTB_NlvumEeMGRCISo8zxw/ScS2XfpcHkq37Oq0GUSDFQ",
+  "Created": "2026-03-13T17:49:16.2198826Z",
+  "Updated": "2026-03-13T17:49:16.2198826Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.28.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
